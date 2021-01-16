@@ -1,0 +1,1 @@
+web: gunicorn workclassapi.wsgi
